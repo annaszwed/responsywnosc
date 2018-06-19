@@ -1,0 +1,21 @@
+
+body {
+	font-family: 'Verdana', sans-serif;
+	background-color: #fff;
+}
+
+
+figure img {
+	width: 100%;
+    position: relative;
+}
+
+.box {
+    position: absolute;
+    z-index: 1;
+}
+
+h1, h2 {
+    color: #fff;
+
+}
